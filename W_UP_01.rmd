@@ -69,7 +69,8 @@ t.test(pushups~position,data=mydata)
 ```
 
 The probability that there is no difference between how many pushups a line player can do and how many a skilled player can do it .000009421. This number is so small that we conclude that the skilled players do more pushups than line players due to the results of our t-test. 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+We looked at the problem, there were only two categories in this problem so we had to use the t-test. We used the numerical, graphical, and infered results to make the conclusion that linemen do less pushups than skilled players. The probability of no difference between the two is so small that we could make this conclusion. 
